@@ -7,9 +7,6 @@
 - Eagles and Phillies fan
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-carvin)
-
-[![](https://raw.githubusercontent.com/npm/logos/master/npm%20square/n-64.png)](https://www.npmjs.com/~mcarvin)
-
 [![](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/20880785/matt-c)
 
 
