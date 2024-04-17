@@ -4,15 +4,13 @@
 
 - DevOps Engineer @ Avalara supporting Release Management for Salesforce and Boomi
 - Rowan University alumnus
-- Eagles and Phillies fan
+- Eagles and Phillies fan (#RingTheBell)
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-carvin)
 [![](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/20880785/matt-c)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=mcarvin8&theme=blue-green)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarvin8&theme=blue-green)
 
 ## Tech Stack
 
@@ -49,6 +47,8 @@ I have created these open-source projects so-far:
 - [XML Disassembler](#xml-disassembler)
 - [Apex Code Coverage Transformer](#apex-code-coverage-transformer)
 - [Apex Tests Git Delta](#apex-tests-git-delta)
+- [XML 2 JSON Disassembler](#xml2json-disassembler)
+- [XML 2 YAML Disassembler](#xml2yaml-disassembler)
 
 ### [sfdx-decomposer](https://github.com/mcarvin8/sfdx-decomposer-plugin)
 
@@ -62,6 +62,16 @@ A JavaScript package which can break down any XML file into smaller files for ea
 
 A plugin for Salesforce which creates Apex Code Coverage XML files compatible for SonarQube.
 
-### [apex-tests-git-delta](https://github.com/mcarvin8/sfdx-decomposer-plugin)
+### [apex-tests-git-delta](https://github.com/mcarvin8/apex-tests-git-delta)
 
 A plugin for Salesforce which analyzes commit messages over a commit range for a user-defined regular expression and extracts Apex Tests for delta deployments.
+
+### [xml2json-disassembler](https://github.com/mcarvin8/xml2json-disassembler)
+
+An extension of my XML Disassembler package which breaks down large XML files into smaller JSON files and reverses the process when needed.
+
+### [xml2yaml-disassembler](https://github.com/mcarvin8/xml2yaml-disassembler)
+
+An extension of my XML Disassembler package which breaks down large XML files into smaller YAML files and reverses the process when needed.
+
+YAML handles CDATA section formatting better than JSON.
