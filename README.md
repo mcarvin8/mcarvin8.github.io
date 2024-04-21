@@ -1,9 +1,8 @@
 <h1 align="center">Matt Carvin (mcarvin8)</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcarvin8&label=Profile%20views&color=0e75b6&style=flat" alt="mcarvin8" /> </p>
 
 - DevOps Engineer @ Avalara supporting Release Management for Salesforce and Boomi
 - Rowan University alumnus
-- (#RingThe🔔) Fun fact **Phillies and Eagles Fan**
+- (#RingThe🔔) **Phillies and Eagles Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
