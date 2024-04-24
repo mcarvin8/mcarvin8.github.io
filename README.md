@@ -83,7 +83,7 @@ I have created these open-source projects so-far:
 
 ### [sfdx-decomposer](https://github.com/mcarvin8/sfdx-decomposer-plugin)
 
-A plugin for Salesforce which breaks up large metadata files (XML) into smaller files for version control, including custom labels, workflows, permission sets, profiles, and a lot more.
+A plugin for Salesforce which breaks up large metadata files (XML) into smaller files for version control. This supports the majority of metadata types available in [Salesforce's SDR registry](https://github.com/forcedotcom/source-deploy-retrieve/blob/989b429f2833141722f3ce259dd46875cb291e57/src/registry/metadataRegistry.json).
 
 ### [xml-disassembler](https://github.com/mcarvin8/xml-disassembler)
 
