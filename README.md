@@ -74,14 +74,14 @@
 
 I have created these open-source projects so-far:
 
-- [SFDX Decomposer](#sfdx-decomposer)
+- [SF Decomposer](#sf-decomposer)
 - [XML Disassembler](#xml-disassembler)
 - [Apex Code Coverage Transformer](#apex-code-coverage-transformer)
 - [Apex Tests Git Delta](#apex-tests-git-delta)
 - [XML 2 JSON Disassembler](#xml2json-disassembler)
 - [XML 2 YAML Disassembler](#xml2yaml-disassembler)
 
-### [sfdx-decomposer](https://github.com/mcarvin8/sfdx-decomposer-plugin)
+### [sf-decomposer](https://github.com/mcarvin8/sf-decomposer)
 
 A plugin for Salesforce which breaks up large metadata files (XML) into smaller files for version control. This supports the majority of metadata types available in [Salesforce's SDR registry](https://github.com/forcedotcom/source-deploy-retrieve/blob/989b429f2833141722f3ce259dd46875cb291e57/src/registry/metadataRegistry.json).
 
@@ -107,4 +107,6 @@ An extension of my XML Disassembler package which breaks down large XML files in
 
 YAML handles CDATA section formatting better than JSON.
 
+
 ![](https://i.pinimg.com/736x/0c/1c/84/0c1c848a1e99303762cbafa3ceaed81c.jpg)
+
