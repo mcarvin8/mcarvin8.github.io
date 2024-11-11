@@ -1,5 +1,3 @@
-<h1 align="center">Matt Carvin (mcarvin8)</h1>
-
 - DevOps Engineer @ Avalara supporting SRE/DevOps/Release Management for Business Applications (Salesforce and Boomi)
 - Rowan University alumnus
 - (#RingThe🔔) **Phillies and Eagles Fan**
