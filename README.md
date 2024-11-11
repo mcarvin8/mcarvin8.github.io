@@ -10,6 +10,8 @@
 <a href="https://stackoverflow.com/users/20880785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20880785" height="30" width="40" /></a>
 </p>
 
+![](https://i.pinimg.com/736x/0c/1c/84/0c1c848a1e99303762cbafa3ceaed81c.jpg)
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -72,46 +74,14 @@
 
 ## Open-Source Projects
 
-I have created these open-source projects so-far:
+I have created these open-source projects so far:
 
-- [SF Decomposer](#sf-decomposer)
-- [XML Disassembler](#xml-disassembler)
-- [Apex Code Coverage Transformer](#apex-code-coverage-transformer)
-- [Apex Tests Git Delta](#apex-tests-git-delta)
-- [SF Package Combiner](#sf-package-combiner)
-- [XML 2 JSON Disassembler](#xml2json-disassembler)
-- [XML 2 YAML Disassembler](#xml2yaml-disassembler)
-
-### [sf-decomposer](https://github.com/mcarvin8/sf-decomposer)
-
-A plugin for Salesforce which breaks up large metadata files (XML) into smaller files for version control. This supports the majority of metadata types available in [Salesforce's SDR registry](https://github.com/forcedotcom/source-deploy-retrieve/blob/989b429f2833141722f3ce259dd46875cb291e57/src/registry/metadataRegistry.json).
-
-### [xml-disassembler](https://github.com/mcarvin8/xml-disassembler)
-
-A JavaScript package which can break down any XML file into smaller files for easier review and maintenance, then reassemble them as needed.
-
-### [apex-code-coverage-transformer](https://github.com/mcarvin8/apex-code-coverage-transformer)
-
-A plugin for Salesforce which creates Apex Code Coverage XML files compatible for SonarQube.
-
-### [apex-tests-git-delta](https://github.com/mcarvin8/apex-tests-git-delta)
-
-A plugin for Salesforce which analyzes commit messages over a commit range for a user-defined regular expression and extracts Apex Tests for delta deployments.
-
-### [sf-package-combiner](https://github.com/mcarvin8/sf-package-combiner)
-
-A plugin for Salesforce which combines multiple package.xml files together for deployments.
-
-### [xml2json-disassembler](https://github.com/mcarvin8/xml2json-disassembler)
-
-An extension of my XML Disassembler package which breaks down large XML files into smaller JSON files and reverses the process when needed.
-
-### [xml2yaml-disassembler](https://github.com/mcarvin8/xml2yaml-disassembler)
-
-An extension of my XML Disassembler package which breaks down large XML files into smaller YAML files and reverses the process when needed.
-
-YAML handles CDATA section formatting better than JSON.
-
-
-![](https://i.pinimg.com/736x/0c/1c/84/0c1c848a1e99303762cbafa3ceaed81c.jpg)
-
+| Project | Description |
+| --- | --- |
+| [SF Decomposer](https://github.com/mcarvin8/sf-decomposer) | A plugin for Salesforce which breaks up large metadata files (XML) into smaller files for version control. |
+| [XML Disassembler](https://github.com/mcarvin8/xml-disassembler) | A JavaScript package which can break down any XML file into smaller files for easier review and maintenance, then reassemble them as needed. |
+| [Apex Code Coverage Transformer](https://github.com/mcarvin8/apex-code-coverage-transformer) | A plugin for Salesforce which creates Apex Code Coverage XML files compatible for SonarQube. |
+| [Apex Tests Git Delta](https://github.com/mcarvin8/apex-tests-git-delta) | A plugin for Salesforce which analyzes commit messages over a commit range for a user-defined regular expression and extracts Apex Tests for delta deployments. |
+| [SF Package Combiner](https://github.com/mcarvin8/sf-package-combiner) | A plugin for Salesforce which combines multiple package.xml files together for deployments. |
+| [XML 2 JSON Disassembler](https://github.com/mcarvin8/xml2json-disassembler) | An extension of the XML Disassembler package which breaks down large XML files into smaller JSON files and reverses the process when needed. |
+| [XML 2 YAML Disassembler](https://github.com/mcarvin8/xml2yaml-disassembler) | An extension of the XML Disassembler package which breaks down large XML files into smaller YAML files and reverses the process when needed. |
