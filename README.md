@@ -78,6 +78,7 @@ I have created these open-source projects so-far:
 - [XML Disassembler](#xml-disassembler)
 - [Apex Code Coverage Transformer](#apex-code-coverage-transformer)
 - [Apex Tests Git Delta](#apex-tests-git-delta)
+- [SF Package Combiner](#sf-package-combiner)
 - [XML 2 JSON Disassembler](#xml2json-disassembler)
 - [XML 2 YAML Disassembler](#xml2yaml-disassembler)
 
@@ -96,6 +97,10 @@ A plugin for Salesforce which creates Apex Code Coverage XML files compatible fo
 ### [apex-tests-git-delta](https://github.com/mcarvin8/apex-tests-git-delta)
 
 A plugin for Salesforce which analyzes commit messages over a commit range for a user-defined regular expression and extracts Apex Tests for delta deployments.
+
+### [sf-package-combiner](https://github.com/mcarvin8/sf-package-combiner)
+
+A plugin for Salesforce which combines multiple package.xml files together for deployments.
 
 ### [xml2json-disassembler](https://github.com/mcarvin8/xml2json-disassembler)
 
