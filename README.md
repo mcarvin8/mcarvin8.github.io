@@ -78,7 +78,7 @@ I have created these open-source projects so far:
 | --- | --- |
 | [SF Decomposer](https://github.com/mcarvin8/sf-decomposer) | A plugin for Salesforce which breaks up large metadata files (XML) into smaller files for version control. |
 | [XML Disassembler](https://github.com/mcarvin8/xml-disassembler) | A JavaScript package which can break down any XML file into smaller files for easier review and maintenance, then reassemble them as needed. |
-| [Apex Code Coverage Transformer](https://github.com/mcarvin8/apex-code-coverage-transformer) | A plugin for Salesforce which creates Apex Code Coverage XML files compatible for SonarQube. |
+| [Apex Code Coverage Transformer](https://github.com/mcarvin8/apex-code-coverage-transformer) | A plugin for Salesforce which creates Apex Code Coverage XML files compatible with SonarQube. |
 | [Apex Tests Git Delta](https://github.com/mcarvin8/apex-tests-git-delta) | A plugin for Salesforce which analyzes commit messages over a commit range for a user-defined regular expression and extracts Apex Tests for delta deployments. |
 | [SF Package Combiner](https://github.com/mcarvin8/sf-package-combiner) | A plugin for Salesforce which combines multiple package.xml files together for deployments. |
 | [XML 2 JSON Disassembler](https://github.com/mcarvin8/xml2json-disassembler) | An extension of the XML Disassembler package which breaks down large XML files into smaller JSON files and reverses the process when needed. |
