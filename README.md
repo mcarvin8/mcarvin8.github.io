@@ -79,7 +79,7 @@ I have created these open-source projects so far:
 | [XML Disassembler](https://github.com/mcarvin8/xml-disassembler) | Break down any XML file into smaller files for easier review and maintenance, then reassemble them as needed. |
 | [Apex Code Coverage Transformer](https://github.com/mcarvin8/apex-code-coverage-transformer) | Transform Apex Code Coverage JSON files from Salesforce CLI into various formats for SonarQube, GitLab, GitHub, etc. |
 | [Apex Tests Git Delta](https://github.com/mcarvin8/apex-tests-git-delta) | Determine Apex tests for incremental Salesforce deployments using git commit messages. |
-| [SF Package Combiner](https://github.com/mcarvin8/sf-package-combiner) | Combine multiple Salesforce manifest files (package.xml) together for deployments. |
+| [SF Package Combiner](https://github.com/mcarvin8/sf-package-combiner) | Combine multiple Salesforce manifest files (package.xml) into 1 file for deployments. |
 | [XML 2 JSON Disassembler](https://github.com/mcarvin8/xml2json-disassembler) | An extension of the XML Disassembler package which breaks down large XML files into smaller JSON files and reverses the process when needed. |
 | [XML 2 YAML Disassembler](https://github.com/mcarvin8/xml2yaml-disassembler) | An extension of the XML Disassembler package which breaks down large XML files into smaller YAML files and reverses the process when needed. |
 
