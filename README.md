@@ -75,7 +75,7 @@ I have created these open-source projects so far:
 
 | Project | Description |
 | --- | --- |
-| [SF Decomposer](https://github.com/mcarvin8/sf-decomposer) | Decompose large Saleforce metadata files (XML) into smaller files for version control and recompose them before deployment. |
+| [SF Decomposer](https://github.com/mcarvin8/sf-decomposer) | Break down large Salesforce metadata files into smaller, more manageable files for version control and then recreate deployment-compatible files. |
 | [XML Disassembler](https://github.com/mcarvin8/xml-disassembler) | Break down any XML file into smaller files for easier review and maintenance, then reassemble them as needed. |
 | [Apex Code Coverage Transformer](https://github.com/mcarvin8/apex-code-coverage-transformer) | Transform Apex Code Coverage JSON files from Salesforce CLI into various formats for SonarQube, GitLab, GitHub, etc. |
 | [Apex Tests Git Delta](https://github.com/mcarvin8/apex-tests-git-delta) | Determine Apex tests for incremental Salesforce deployments using git commit messages. |
