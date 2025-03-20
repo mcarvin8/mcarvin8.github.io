@@ -15,7 +15,8 @@
 
 - **Languages:** Python, TypeScript, Bash, PowerShell, C++, XML, YAML
 - **DevOps & Cloud:** AWS, Docker, Kubernetes, Terraform  
-- **CI/CD & Code Quality:** GitHub Actions, GitLab CI, SonarQube  
+- **CI/CD & Code Quality:** GitHub Actions, GitLab CI, SonarQube
+- **Monitoring:** Grafana, OpsGenie
 - **Salesforce:** Apex, Metadata API, SFDX  
 
 ## Featured Projects
