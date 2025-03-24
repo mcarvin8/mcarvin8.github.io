@@ -9,7 +9,8 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mcarvin8"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mcarvin8" /></a></p><br><br>
+
+If you'd like to support my projects, please consider becoming a sponsor: https://github.com/sponsors/mcarvin8 
 
 <h3 align="left">Tech Stack:</h3>
 
