@@ -17,7 +17,7 @@ If you'd like to support my projects, please consider becoming a sponsor: https:
 - **Languages:** Python, TypeScript, Bash, PowerShell, C++, XML, YAML
 - **DevOps & Cloud:** AWS, Docker, Kubernetes, Terraform  
 - **CI/CD & Code Quality:** GitHub Actions, GitLab CI, SonarQube
-- **Monitoring:** Grafana, OpsGenie
+- **Monitoring:** Grafana, OpsGenie, Prometheus
 - **Salesforce:** Apex, Metadata API, SFDX  
 
 ## Featured Projects
